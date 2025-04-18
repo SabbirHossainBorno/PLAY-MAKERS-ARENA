@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "logs/.f6812235bc5c2105cb6678321c229bb741868853-audit.json",
+    "files": [
+        {
+            "date": 1742398699015,
+            "name": "logs/play-makers-arena-2025-03-19.log",
+            "hash": "0ac8c7e6326a16d91368f168459ab3cc22d8f216fda59fa3f98cbae1c73b0b35"
+        },
+        {
+            "date": 1742422059184,
+            "name": "logs/play-makers-arena-2025-03-20.log",
+            "hash": "682de18a7811a9065422b534ac3b2581204719e9db05ec55b3494f3ca5f48ac3"
+        },
+        {
+            "date": 1742602262588,
+            "name": "logs/play-makers-arena-2025-03-22.log",
+            "hash": "193d587c38fb4d1321f75e3bcdc5ca7029a6a005b84c4d9a92038c40477599c9"
+        },
+        {
+            "date": 1742666758754,
+            "name": "logs/play-makers-arena-2025-03-23.log",
+            "hash": "fe70d5a413552721d8e2b91de1299008e1e92704bb14f21ce2e491f79e18614f"
+        },
+        {
+            "date": 1742769091579,
+            "name": "logs/play-makers-arena-2025-03-24.log",
+            "hash": "e0d0a8e625b478f4406ff6a7c1fc5de77fa48bb3e0b8c292515e21a67df13bdf"
+        },
+        {
+            "date": 1742863541648,
+            "name": "logs/play-makers-arena-2025-03-25.log",
+            "hash": "92337bb41eee5eb7a21300b73d62e05f80e2ae12865c17d180a6bb48cadd7fde"
+        },
+        {
+            "date": 1742935487691,
+            "name": "logs/play-makers-arena-2025-03-26.log",
+            "hash": "dfbb1a6b2445a1087d6686f6df922586587abac5251e9b6b3ede8682db9137d2"
+        },
+        {
+            "date": 1743024315367,
+            "name": "logs/play-makers-arena-2025-03-27.log",
+            "hash": "2c9bcbc25dd83c46998db68e8b173dd190272156ddbd755c4c15ed2bbd639595"
+        },
+        {
+            "date": 1743124271416,
+            "name": "logs/play-makers-arena-2025-03-28.log",
+            "hash": "7807197a04569c44c6047c8584cab2bba653f510189ea5a27fdff55098e4c206"
+        },
+        {
+            "date": 1743195258760,
+            "name": "logs/play-makers-arena-2025-03-29.log",
+            "hash": "706ce87425f2faa3a5e78067d15fc485a2fa4048a680dd17356a4e33f2e5addd"
+        },
+        {
+            "date": 1743281456121,
+            "name": "logs/play-makers-arena-2025-03-30.log",
+            "hash": "672509b73437e97c2ae605e9fd4b05597ba9d1c607505891e5616538eeaaa384"
+        },
+        {
+            "date": 1744431883337,
+            "name": "logs/play-makers-arena-2025-04-12.log",
+            "hash": "9974e9e0a56d8f34dd40c8228cca213a17f5101caf549755902cc2de515b7c92"
+        },
+        {
+            "date": 1744551657471,
+            "name": "logs/play-makers-arena-2025-04-13.log",
+            "hash": "e6646ec80e5cc06fabd5c39c292c26e5fe34b2c59fa1c28b4115415e55b6a727"
+        },
+        {
+            "date": 1744572969481,
+            "name": "logs/play-makers-arena-2025-04-14.log",
+            "hash": "251ee1dbb36d5acf147c10d252557eb3868726e8918048691951eff06d163bc9"
+        },
+        {
+            "date": 1744805110089,
+            "name": "logs/play-makers-arena-2025-04-16.log",
+            "hash": "9683bb1480b55c1196fa852c530ee7f1608d3c0d437ae5dcd538f8f99a75de1e"
+        },
+        {
+            "date": 1744904245475,
+            "name": "logs/play-makers-arena-2025-04-17.log",
+            "hash": "2cecae18a7215a317e98df2184ba236f682ba9da0d355c91e3874d7d54e2448a"
+        },
+        {
+            "date": 1744944719895,
+            "name": "logs/play-makers-arena-2025-04-18.log",
+            "hash": "76b5f7a938435995e3f1c7a3e897d5e060c95ca37d96f7ca949da1bc2c6e3008"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,48 @@
+2025-03-23 00:16:10-EID[]-SID[]-[INFO] TASK[Member Signup]-New member M01PMA registered: sabbirhossainborno@gmail.com
+2025-03-23 01:04:36-EID[]-SID[]-[INFO] TASK[Member Signup]-New member M02PMA registered: omarfarukjoney@gmail.com
+2025-03-23 01:17:26-EID[]-SID[]-[INFO] TASK[Member Signup]-New member M03PMA registered: nafizfuad@gmail.com
+2025-03-23 01:55:07-EID[]-SID[]-[WARN] TASK[Member Signup]-Duplicate email found: nafizfuad@gmail.com
+2025-03-23 02:03:52-EID[]-SID[]-[INFO] TASK[]-
+2025-03-23 02:03:52-EID[]-SID[]-[INFO] TASK[]-
+2025-03-23 02:03:52-EID[]-SID[]-[INFO] TASK[]-
+2025-03-23 02:03:52-EID[]-SID[]-[WARN] TASK[]-
+2025-03-23 02:03:52-EID[]-SID[]-[INFO] TASK[]-
+2025-03-23 02:05:54-EID[]-SID[]-[WARN] TASK[Member Signup]-Duplicate email found: nafizfuad@gmail.com
+2025-03-23 03:47:24-EID[PMA-740448]-SID[bcdcc4f9-7b4d-4430-9df4-aa3b12d2f9a6]-[INFO] TASK[UserAuth]-Starting authentication process for sabbirhossainborno@gmail.com
+2025-03-23 03:47:24-EID[PMA-740448]-SID[bcdcc4f9-7b4d-4430-9df4-aa3b12d2f9a6]-[INFO] TASK[UserAuth]-Querying pma_member_info for sabbirhossainborno@gmail.com
+2025-03-23 03:47:24-EID[PMA-740448]-SID[bcdcc4f9-7b4d-4430-9df4-aa3b12d2f9a6]-[INFO] TASK[UserAuth]-Retrieved user: sabbirhossainborno@gmail.com
+2025-03-23 03:47:24-EID[PMA-740448]-SID[bcdcc4f9-7b4d-4430-9df4-aa3b12d2f9a6]-[INFO] TASK[UserAuth]-Comparing hashed passwords
+2025-03-23 03:47:24-EID[PMA-740448]-SID[bcdcc4f9-7b4d-4430-9df4-aa3b12d2f9a6]-[INFO] TASK[UserAuth]-Password hash matches stored value
+2025-03-23 03:47:24-EID[PMA-740448]-SID[bcdcc4f9-7b4d-4430-9df4-aa3b12d2f9a6]-[INFO] TASK[UserAuth]-Updating last login for M01PMA
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-Starting authentication process for sabbirhossainborno@gmail.com
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-Querying pma_member_info for sabbirhossainborno@gmail.com
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-Retrieved user: sabbirhossainborno@gmail.com
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-Comparing hashed passwords
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-Password hash matches stored value
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-Updating last login for M01PMA
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-Session 5aa26a15-8599-4db4-a4e2-f29576712069 created for member
+2025-03-23 03:49:34-EID[PMA-546012]-SID[18f8a37d-0172-4102-9a7a-bb6e8cb27586]-[INFO] TASK[UserAuth]-User sabbirhossainborno@gmail.com authenticated successfully
+2025-03-23 03:53:47-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-Starting authentication process for sabbirhossainborno@gmail.com
+2025-03-23 03:53:48-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-Querying pma_member_info for sabbirhossainborno@gmail.com
+2025-03-23 03:53:48-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-Retrieved user: sabbirhossainborno@gmail.com
+2025-03-23 03:53:48-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-Comparing hashed passwords
+2025-03-23 03:53:48-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-Password hash matches stored value
+2025-03-23 03:53:48-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-Updating last login for M01PMA
+2025-03-23 03:53:48-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-Session ab710f57-79b4-4d70-9f62-899ab23541ff created for member
+2025-03-23 03:53:48-EID[PMA-416399]-SID[c24f04a1-1a67-4a9a-9b92-e491fb43e93a]-[INFO] TASK[UserAuth]-User sabbirhossainborno@gmail.com authenticated successfully
+2025-03-23 03:57:33-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-Starting authentication process for sabbirhossainborno@gmail.com
+2025-03-23 03:57:34-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-Querying pma_member_info for sabbirhossainborno@gmail.com
+2025-03-23 03:57:34-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-Retrieved user: sabbirhossainborno@gmail.com
+2025-03-23 03:57:34-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-Comparing hashed passwords
+2025-03-23 03:57:34-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-Password hash matches stored value
+2025-03-23 03:57:34-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-Updating last login for M01PMA
+2025-03-23 03:57:34-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-Session 9d70d686-9c81-4aa3-b707-04b3afdeea2a created for member
+2025-03-23 03:57:34-EID[PMA-525952]-SID[7f9f7779-135b-449d-8020-023409d018d6]-[INFO] TASK[UserAuth]-User sabbirhossainborno@gmail.com authenticated successfully
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-Starting authentication process for sabbirhossainborno@gmail.com
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-Querying pma_member_info for sabbirhossainborno@gmail.com
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-Retrieved user: sabbirhossainborno@gmail.com
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-Comparing hashed passwords
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-Password hash matches stored value
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-Updating last login for M01PMA
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-Session f89e4d09-545f-4ef0-8c0e-e2ed3db13e03 created for member
+2025-03-23 03:59:50-EID[PMA-853268]-SID[9e5c5a8e-b696-404e-ba8d-36c4ba0c53e8]-[INFO] TASK[UserAuth]-User sabbirhossainborno@gmail.com authenticated successfully

@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "logs/.abec19367f9f90658d008cd369c6f0d9f3d0b3e1-audit.json",
+    "files": [
+        {
+            "date": 1742673722780,
+            "name": "logs/play-makers-arena-2025-03-23.log",
+            "hash": "79ff5662e469b30385fe79aa999a15d90250052bc845fb65fcbb6a614ddfe24e"
+        }
+    ],
+    "hashType": "sha256"
+}

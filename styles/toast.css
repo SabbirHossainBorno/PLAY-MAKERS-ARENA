@@ -1,0 +1,28 @@
+/* styles/toast.css */
+.Toastify__toast {
+  @apply rounded-lg shadow-lg dark:bg-gray-800 dark:text-white;
+}
+
+.Toastify__toast-body {
+  @apply font-medium;
+}
+
+.Toastify__progress-bar {
+  @apply bg-gradient-to-r from-blue-400 to-green-400;
+}
+
+.Toastify__toast--success {
+  @apply bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-100;
+}
+
+.Toastify__toast--error {
+  @apply bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-100;
+}
+
+.Toastify__toast--info {
+  @apply bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-100;
+}
+
+.Toastify__toast--warning {
+  @apply bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-100;
+}

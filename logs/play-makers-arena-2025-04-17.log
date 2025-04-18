@@ -1,0 +1,6 @@
+2025-04-17 21:37:25-EID[]-SID[]-[INFO] TASK[Member Signup]-Profile photo saved successfully
+2025-04-17 21:37:31-EID[]-SID[4c5c0f0f-f369-4805-87c1-e7846a6c07ec]-[INFO] TASK[LoginInit]-Login attempt for nfuad32@gmail.com from 37.111.215.173
+2025-04-17 21:37:31-EID[]-SID[4c5c0f0f-f369-4805-87c1-e7846a6c07ec]-[INFO] TASK[MemberLogin]-Successful login for member: nfuad32@gmail.com
+2025-04-17 21:37:31-EID[161126-PMA]-SID[4c5c0f0f-f369-4805-87c1-e7846a6c07ec]-[INFO] TASK[LoginSuccess]-Session established for nfuad32@gmail.com
+2025-04-17 21:37:32-EID[161126-PMA]-SID[4c5c0f0f-f369-4805-87c1-e7846a6c07ec]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-17 21:37:33-EID[161126-PMA]-SID[4c5c0f0f-f369-4805-87c1-e7846a6c07ec]-[INFO] TASK[DashboardData]-Fetched data for nfuad32@gmail.com

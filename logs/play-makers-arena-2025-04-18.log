@@ -1,0 +1,158 @@
+2025-04-18 08:51:59-EID[]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 08:52:00-EID[]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 08:52:00-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 08:52:14-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 08:52:15-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 08:52:16-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 08:55:53-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 08:55:54-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 08:55:55-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 08:56:19-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 08:56:20-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 08:56:20-EID[578109-PMA]-SID[993ed2f0-aa64-4b14-9882-f7a4d4246ad0]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 09:14:22-EID[]-SID[d2e67d80-20ae-4270-8f96-108bd8671643]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 09:14:22-EID[]-SID[d2e67d80-20ae-4270-8f96-108bd8671643]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 09:14:23-EID[485130-PMA]-SID[d2e67d80-20ae-4270-8f96-108bd8671643]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 09:14:28-EID[485130-PMA]-SID[d2e67d80-20ae-4270-8f96-108bd8671643]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 09:14:29-EID[485130-PMA]-SID[d2e67d80-20ae-4270-8f96-108bd8671643]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 09:14:29-EID[485130-PMA]-SID[d2e67d80-20ae-4270-8f96-108bd8671643]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 09:54:44-EID[]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 09:54:44-EID[]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 09:54:44-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 09:54:50-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 09:54:51-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 09:54:51-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 09:54:59-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 09:54:59-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 09:55:00-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 10:03:07-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 10:03:08-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 10:03:09-EID[466853-PMA]-SID[01a3a1ea-b90d-4c9e-a938-f9d1b980f446]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 10:37:58-EID[]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 10:37:58-EID[]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 10:37:59-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 10:38:00-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 10:38:01-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 10:38:01-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:04:47-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:04:49-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:04:49-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:05:55-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:06:43-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:07:14-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:07:15-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:09:31-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:09:32-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:09:32-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:11:01-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:11:01-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:11:02-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:15:42-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:15:43-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:15:43-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:27:06-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:27:08-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:27:09-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:27:38-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[LogoutInit]-Logout request received from IP: 123.200.7.106
+2025-04-18 11:27:38-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[LogoutProcess]-Processing logout for Member: sabbirhossainborno@gmail.com
+2025-04-18 11:27:38-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[MemberLogout]-Updated login status for member: sabbirhossainborno@gmail.com
+2025-04-18 11:27:38-EID[516402-PMA]-SID[a8c5ca06-3486-4af3-81f3-47d3c3ad7481]-[INFO] TASK[LogoutSuccess]-Completed logout for Member: sabbirhossainborno@gmail.com
+2025-04-18 11:27:59-EID[]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 11:27:59-EID[]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 11:27:59-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 11:28:00-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:28:00-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:28:01-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:31:07-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:31:08-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:31:09-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:34:44-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:34:45-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:34:46-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:47:26-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:47:27-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:47:27-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:47:57-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:47:57-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:47:58-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:56:53-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:56:54-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:56:54-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:57:55-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:57:56-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:57:56-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:58:51-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:58:56-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:58:57-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:58:57-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:59:03-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 11:59:03-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 11:59:03-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 12:03:00-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 12:03:01-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 12:03:01-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 12:03:18-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 12:03:21-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 12:03:24-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 12:03:24-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 12:03:24-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 12:04:27-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 12:04:27-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 12:04:27-EID[968453-PMA]-SID[ecf031e3-969b-444f-bd16-5539f1c0db70]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:17:09-EID[]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 13:17:10-EID[]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 13:17:10-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 13:18:03-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 13:18:04-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:18:04-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:18:42-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 13:18:42-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:18:42-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:19:26-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 13:19:26-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:19:26-EID[951748-PMA]-SID[dba62dab-1141-4c0b-ae5a-70a50ed0ce7f]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:46:44-EID[]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 13:46:44-EID[]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 13:46:44-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 13:46:46-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 13:46:50-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:46:50-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:49:31-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 13:49:33-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:49:34-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:56:00-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 13:56:05-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 13:56:05-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:22:09-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:22:10-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:22:11-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:26:02-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:26:04-EID[425234-PMA]-SID[6086d8e9-ad95-4f2d-aa91-691c1a5d0db2]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:33:00-EID[]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-18 14:33:00-EID[]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 14:33:00-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 14:33:04-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:33:05-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:33:05-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:33:41-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:33:42-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:33:43-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:35:58-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:36:00-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:36:00-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:38:43-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:38:45-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:38:46-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:39:57-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:39:57-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:39:57-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:41:38-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:41:41-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:41:42-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:43:11-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 14:43:12-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:43:12-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-18 14:46:10-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[LogoutInit]-Logout request received from IP: 123.200.7.106
+2025-04-18 14:46:10-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[LogoutProcess]-Processing logout for Member: sabbirhossainborno@gmail.com
+2025-04-18 14:46:10-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[MemberLogout]-Updated login status for member: sabbirhossainborno@gmail.com
+2025-04-18 14:46:11-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[LogoutSuccess]-Completed logout for Member: sabbirhossainborno@gmail.com

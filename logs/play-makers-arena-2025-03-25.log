@@ -1,0 +1,63 @@
+2025-03-25 06:45:41-EID[]-SID[45da0b5f-f290-4f20-b2e4-03e502b11bb1]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::1
+2025-03-25 06:45:41-EID[]-SID[45da0b5f-f290-4f20-b2e4-03e502b11bb1]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 06:45:41-EID[]-SID[45da0b5f-f290-4f20-b2e4-03e502b11bb1]-[ERROR] TASK[LoginProcess]-Error during login process: Cannot read properties of undefined (reading 'query')
+2025-03-25 06:46:59-EID[]-SID[09b0522a-a7c4-4e28-b9da-725c5cdce3b6]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::ffff:127.0.0.1
+2025-03-25 06:46:59-EID[]-SID[09b0522a-a7c4-4e28-b9da-725c5cdce3b6]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 06:46:59-EID[]-SID[09b0522a-a7c4-4e28-b9da-725c5cdce3b6]-[ERROR] TASK[LoginProcess]-Error during login process: Cannot read properties of undefined (reading 'query')
+2025-03-25 06:50:39-EID[]-SID[f833815c-ef35-42dd-8097-f3749c38bff1]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::1
+2025-03-25 06:50:39-EID[]-SID[f833815c-ef35-42dd-8097-f3749c38bff1]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 06:50:39-EID[]-SID[f833815c-ef35-42dd-8097-f3749c38bff1]-[ERROR] TASK[LoginProcess]-Error during login process: Cannot read properties of undefined (reading 'query')
+2025-03-25 06:54:30-EID[]-SID[2d7ee69e-8639-4972-a2c6-0bc5636488e9]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::ffff:127.0.0.1
+2025-03-25 06:54:30-EID[]-SID[2d7ee69e-8639-4972-a2c6-0bc5636488e9]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 06:54:30-EID[PMA-270421]-SID[2d7ee69e-8639-4972-a2c6-0bc5636488e9]-[INFO] TASK[Generate EID]-Generated EID PMA-270421 for user sabbirhossainborno@gmail.com
+2025-03-25 06:54:30-EID[PMA-270421]-SID[2d7ee69e-8639-4972-a2c6-0bc5636488e9]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 08:06:32-EID[]-SID[c7db7091-53bc-45dd-a58f-84907bf7b848]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::1
+2025-03-25 08:06:32-EID[]-SID[c7db7091-53bc-45dd-a58f-84907bf7b848]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 08:06:32-EID[PMA-806656]-SID[c7db7091-53bc-45dd-a58f-84907bf7b848]-[INFO] TASK[Generate EID]-Generated EID PMA-806656 for user sabbirhossainborno@gmail.com
+2025-03-25 08:06:32-EID[PMA-806656]-SID[c7db7091-53bc-45dd-a58f-84907bf7b848]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 08:08:50-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:09:02-EID[]-SID[83bc3aaf-5a11-4949-b9a3-3b4650913f26]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::1
+2025-03-25 08:09:02-EID[]-SID[83bc3aaf-5a11-4949-b9a3-3b4650913f26]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 08:09:02-EID[PMA-463168]-SID[83bc3aaf-5a11-4949-b9a3-3b4650913f26]-[INFO] TASK[Generate EID]-Generated EID PMA-463168 for user sabbirhossainborno@gmail.com
+2025-03-25 08:09:02-EID[PMA-463168]-SID[83bc3aaf-5a11-4949-b9a3-3b4650913f26]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 08:09:20-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:09:20-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:45:20-EID[]-SID[2f1d526d-2f9a-4d23-8e5e-ab7cd32e47c2]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::1
+2025-03-25 08:45:20-EID[]-SID[2f1d526d-2f9a-4d23-8e5e-ab7cd32e47c2]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 08:45:20-EID[PMA-211203]-SID[2f1d526d-2f9a-4d23-8e5e-ab7cd32e47c2]-[INFO] TASK[Generate EID]-Generated EID PMA-211203 for user sabbirhossainborno@gmail.com
+2025-03-25 08:45:20-EID[PMA-211203]-SID[2f1d526d-2f9a-4d23-8e5e-ab7cd32e47c2]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 08:45:26-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:45:26-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:45:42-EID[]-SID[fe1532f7-be03-4fe4-b144-87cdfcfa684e]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::ffff:127.0.0.1
+2025-03-25 08:45:42-EID[]-SID[fe1532f7-be03-4fe4-b144-87cdfcfa684e]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 08:45:42-EID[PMA-935602]-SID[fe1532f7-be03-4fe4-b144-87cdfcfa684e]-[INFO] TASK[Generate EID]-Generated EID PMA-935602 for user sabbirhossainborno@gmail.com
+2025-03-25 08:45:42-EID[PMA-935602]-SID[fe1532f7-be03-4fe4-b144-87cdfcfa684e]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 08:45:59-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:45:59-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:54:16-EID[]-SID[9b9c8002-0076-40fa-afb1-7941171fdf49]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::ffff:127.0.0.1
+2025-03-25 08:54:16-EID[]-SID[9b9c8002-0076-40fa-afb1-7941171fdf49]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 08:54:16-EID[PMA-128118]-SID[9b9c8002-0076-40fa-afb1-7941171fdf49]-[INFO] TASK[Generate EID]-Generated EID PMA-128118 for user sabbirhossainborno@gmail.com
+2025-03-25 08:54:16-EID[PMA-128118]-SID[9b9c8002-0076-40fa-afb1-7941171fdf49]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 08:54:23-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:54:23-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:57:00-EID[]-SID[fe82d65a-a622-4b6e-945a-e694f60b0974]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::1
+2025-03-25 08:57:00-EID[]-SID[fe82d65a-a622-4b6e-945a-e694f60b0974]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 08:57:01-EID[PMA-273879]-SID[fe82d65a-a622-4b6e-945a-e694f60b0974]-[INFO] TASK[Generate EID]-Generated EID PMA-273879 for user sabbirhossainborno@gmail.com
+2025-03-25 08:57:01-EID[PMA-273879]-SID[fe82d65a-a622-4b6e-945a-e694f60b0974]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 08:57:05-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 08:57:06-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 09:00:25-EID[]-SID[d2c9abf9-1dfa-425c-b01a-b00a36529384]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::ffff:127.0.0.1
+2025-03-25 09:00:25-EID[]-SID[d2c9abf9-1dfa-425c-b01a-b00a36529384]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 09:00:25-EID[PMA-315500]-SID[d2c9abf9-1dfa-425c-b01a-b00a36529384]-[INFO] TASK[Generate EID]-Generated EID PMA-315500 for user sabbirhossainborno@gmail.com
+2025-03-25 09:00:25-EID[PMA-315500]-SID[d2c9abf9-1dfa-425c-b01a-b00a36529384]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 09:00:33-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 09:00:33-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 09:03:14-EID[]-SID[a983150a-ed06-4420-9ec6-d978d2818557]-[INFO] TASK[Login]-Login attempt for sabbirhossainborno@gmail.com from IP ::1
+2025-03-25 09:03:14-EID[]-SID[a983150a-ed06-4420-9ec6-d978d2818557]-[INFO] TASK[DBCheck]-Looking for sabbirhossainborno@gmail.com in member table
+2025-03-25 09:03:14-EID[PMA-312516]-SID[a983150a-ed06-4420-9ec6-d978d2818557]-[INFO] TASK[Generate EID]-Generated EID PMA-312516 for user sabbirhossainborno@gmail.com
+2025-03-25 09:03:14-EID[PMA-312516]-SID[a983150a-ed06-4420-9ec6-d978d2818557]-[INFO] TASK[AuthSuccess]-Successful member login for sabbirhossainborno@gmail.com
+2025-03-25 09:03:21-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 09:03:21-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 09:24:42-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 09:24:42-EID[]-SID[]-[ERROR] TASK[DashboardAccess]-No session found
+2025-03-25 09:38:54-EID[]-SID[]-[ERROR] TASK[Home - Subscribe]-Database error: Failed to send confirmation email from IP ::ffff:127.0.0.1 with User-Agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0

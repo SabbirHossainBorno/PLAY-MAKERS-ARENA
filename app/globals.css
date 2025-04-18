@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-gradient-radial {
+    background-image: radial-gradient(circle, var(--tw-gradient-stops));
+  }
+  
+  .text-gradient {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .grecaptcha-badge { 
+    visibility: hidden;
+  }
+  
+  .reCAPTCHA-wrapper {
+    margin: 1.5rem 0;
+    display: flex;
+    justify-content: center;
+    min-height: 78px;
+  }
+}
