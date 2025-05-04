@@ -156,3 +156,8 @@
 2025-04-18 14:46:10-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[LogoutProcess]-Processing logout for Member: sabbirhossainborno@gmail.com
 2025-04-18 14:46:10-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[MemberLogout]-Updated login status for member: sabbirhossainborno@gmail.com
 2025-04-18 14:46:11-EID[755742-PMA]-SID[7d5adef4-d16c-41ea-bfe9-a5acdca8743b]-[INFO] TASK[LogoutSuccess]-Completed logout for Member: sabbirhossainborno@gmail.com
+2025-04-18 18:27:57-EID[]-SID[88c7309e-0671-4819-9833-f99ebed40a13]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 37.111.207.9
+2025-04-18 18:27:57-EID[]-SID[88c7309e-0671-4819-9833-f99ebed40a13]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-18 18:27:57-EID[249897-PMA]-SID[88c7309e-0671-4819-9833-f99ebed40a13]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-18 18:27:59-EID[249897-PMA]-SID[88c7309e-0671-4819-9833-f99ebed40a13]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-18 18:28:00-EID[249897-PMA]-SID[88c7309e-0671-4819-9833-f99ebed40a13]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com

@@ -1,0 +1,45 @@
+2025-04-20 01:02:21-EID[]-SID[]-[INFO] TASK[Member Signup]-Profile photo saved successfully
+2025-04-20 01:02:51-EID[]-SID[13a338db-89b1-4cb6-9c7b-2b327de87061]-[INFO] TASK[LoginInit]-Login attempt for d3adbod7@gmail.com from 103.149.56.9
+2025-04-20 01:02:51-EID[]-SID[13a338db-89b1-4cb6-9c7b-2b327de87061]-[WARN] TASK[MemberAuth]-No member found for email: d3adbod7@gmail.com
+2025-04-20 01:03:01-EID[]-SID[885d763b-cb9b-46d7-bcc2-d7250205804b]-[INFO] TASK[LoginInit]-Login attempt for d3adbod7@gmail.com from 103.149.56.9
+2025-04-20 01:03:01-EID[]-SID[885d763b-cb9b-46d7-bcc2-d7250205804b]-[WARN] TASK[MemberAuth]-No member found for email: d3adbod7@gmail.com
+2025-04-20 01:04:11-EID[]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[LoginInit]-Login attempt for d3adb0d7@gmail.com from 103.149.56.9
+2025-04-20 01:04:11-EID[]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[MemberLogin]-Successful login for member: d3adb0d7@gmail.com
+2025-04-20 01:04:12-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[LoginSuccess]-Session established for d3adb0d7@gmail.com
+2025-04-20 01:04:13-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-20 01:04:14-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[DashboardData]-Fetched data for d3adb0d7@gmail.com
+2025-04-20 01:04:40-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-20 01:05:06-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 01:05:23-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-20 01:05:23-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[DashboardData]-Fetched data for d3adb0d7@gmail.com
+2025-04-20 01:05:29-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-20 01:05:34-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 01:06:00-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-20 01:06:08-EID[261359-PMA]-SID[dff7869d-cc4f-4cb1-8e15-ae51fe5e3e3d]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 13:46:02-EID[]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[LoginInit]-Login attempt for d3adb0d7@gmail.com from 202.83.126.198
+2025-04-20 13:46:02-EID[]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[MemberLogin]-Successful login for member: d3adb0d7@gmail.com
+2025-04-20 13:46:03-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[LoginSuccess]-Session established for d3adb0d7@gmail.com
+2025-04-20 13:46:04-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-20 13:46:04-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[DashboardData]-Fetched data for d3adb0d7@gmail.com
+2025-04-20 13:46:15-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-20 13:46:21-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 13:46:37-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 13:46:40-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-20 13:46:41-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-20 13:46:42-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-20 13:46:50-EID[561941-PMA]-SID[07c493c8-6eb3-4271-a6b4-44d1c61edddd]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 23:23:55-EID[]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-20 23:23:55-EID[]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-20 23:23:56-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-20 23:24:15-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-20 23:24:17-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-20 23:24:17-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-20 23:24:20-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 23:24:20-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 23:24:26-EID[]-SID[]-[INFO] TASK[Payment Initiation]-Amount: 4725 | Booking Slots: 1
+2025-04-20 23:31:38-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-20 23:31:39-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-20 23:31:40-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-20 23:33:01-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 23:33:01-EID[135142-PMA]-SID[2218076d-0d92-4b20-8c2b-db419ccafa45]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-20 23:33:09-EID[]-SID[]-[INFO] TASK[Payment Initiation]-Amount: 4725 | Booking Slots: 1

@@ -19,18 +19,28 @@ const BookNow = ({ darkMode, onProceed }) => {
 
 
   const handleProceedToPayment = () => {
+    const dateString = format(selectedDate, 'yyyy-MM-dd');
     if (selectedSlots.length === 0) {
       toast.error('Please select at least one slot');
       return;
     }
-    
+  
     const bookingData = {
-      selectedDate,
-      selectedSlots: selectedSlots.map(id => slots.find(s => s.serial === id))
+      selectedDate: dateString, // Store as string
+      selectedSlots: selectedSlots.map(id => {
+        const slot = slots.find(s => s.serial === id);
+        return {
+          slotId: slot.slotId,  // Correctly captures slot ID
+          slotName: slot.slotName,
+          slotTiming: slot.slotTiming,
+          price: slot.price,
+          offerPrice: slot.offerPrice
+        };
+      })
     };
-    
+  
     localStorage.setItem('bookingData', JSON.stringify(bookingData));
-    onProceed(); // This should trigger the parent to switch to payment view
+    onProceed();
   };
 
   // Calendar setup

@@ -1,0 +1,16 @@
+2025-04-26 14:59:55-EID[]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 123.200.7.106
+2025-04-26 14:59:55-EID[]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-04-26 14:59:55-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-04-26 14:59:56-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-26 14:59:56-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-26 15:00:08-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-26 15:00:13-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-04-26 15:01:02-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-04-26 15:01:03-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-04-26 15:01:44-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-26 15:02:23-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-26 15:02:28-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[Booking]-New booking slots request received
+2025-04-26 15:02:33-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[LogoutInit]-Logout request received from IP: 123.200.7.106
+2025-04-26 15:02:33-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[LogoutProcess]-Processing logout for Member: sabbirhossainborno@gmail.com
+2025-04-26 15:02:33-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[MemberLogout]-Updated login status for member: sabbirhossainborno@gmail.com
+2025-04-26 15:02:34-EID[161726-PMA]-SID[361699de-a221-4c04-90d0-eb079e9f0879]-[INFO] TASK[LogoutSuccess]-Completed logout for Member: sabbirhossainborno@gmail.com

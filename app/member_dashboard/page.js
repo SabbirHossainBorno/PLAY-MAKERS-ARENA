@@ -12,7 +12,7 @@ import withAuth from '../components/withAuth';
 import LoadingSpinner from '../components/LoadingSpinner';
 import BookNow from './book_now/page';
 import Payment from './payment/page';
-//import BookingHistory from './booking_history/page';
+import BookingHistory from './booking_history/page';
 import { LuBookmarkPlus } from "react-icons/lu";
 import { FaHistory } from "react-icons/fa";
 import { 
@@ -114,15 +114,45 @@ const MemberDashboard = () => {
     fetchData();
   }, [router]);
 
-  // Access denied notification effect
+  // Payment status and access denied notifications
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
+    
+    // Handle payment status
+    const paymentStatus = params.get('payment');
+    if (paymentStatus) {
+      // Clean URL
+      params.delete('payment');
+      const newUrl = window.location.pathname + (params.toString() ? `?${params}` : '');
+      window.history.replaceState(null, '', newUrl);
+
+      // Show notifications
+      if (paymentStatus === 'success') {
+        toast.success('🎟️Booking Confirmed!', {
+          autoClose: 3000,
+          theme: darkMode ? 'dark' : 'light',
+        });
+        localStorage.removeItem('bookingData');
+      } else if (paymentStatus === 'failed') {
+        toast.error('❌ Payment Failed. Please Try Again.', {
+          autoClose: 4000,
+          theme: darkMode ? 'dark' : 'light',
+        });
+      }
+    }
+
+    // Handle access denied
     if (params.has('accessDenied')) {
       params.delete('accessDenied');
       router.replace(window.location.pathname);
+      toast.error('⛔ Access Denied: Insufficient permissions', {
+        autoClose: 4000,
+        theme: darkMode ? 'dark' : 'light',
+      });
     }
+
     setInitialLoad(false);
-  }, [router]);
+  }, [router, darkMode]); // Add darkMode to dependencies
   
 
   // Logout handler
@@ -149,7 +179,18 @@ const MemberDashboard = () => {
 
   return (
     <div className={`min-h-screen overflow-x-hidden ${darkMode ? 'bg-gray-900' : 'bg-gray-50'}`}>
-      <ToastContainer position="top-right" autoClose={3000} />
+      <ToastContainer 
+        position="top-right"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme={darkMode ? 'dark' : 'light'}
+      />
       {/* Add Loading Spinner for Logout */}
     <AnimatePresence>
       {isLoggingOut && <LoadingSpinner type="global" />}
@@ -654,6 +695,14 @@ const MemberDashboard = () => {
             <Payment 
               darkMode={darkMode} 
               onBack={() => setActiveMenu('book_now')}
+            />
+          )}
+
+          {/* booking-history route handling */}
+          {activeMenu === 'booking-history' && (
+            <BookingHistory 
+              darkMode={darkMode} 
+              onBack={() => setActiveMenu('booking-history')}
             />
           )}
 
