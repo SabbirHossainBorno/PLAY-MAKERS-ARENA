@@ -53,6 +53,7 @@ export async function GET(request) {
     const bookingHistory = await query(
       `SELECT 
         bi.booking_id,
+        bi.invoice_id,
         bi.booking_date,
         bi.created_at,
         bi.slot_id,

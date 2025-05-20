@@ -1,0 +1,21 @@
+2025-05-13 20:28:24-EID[]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[LoginInit]-Login attempt for nfuad32@gmail.com from 104.28.208.84
+2025-05-13 20:28:25-EID[]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[MemberLogin]-Successful login for member: nfuad32@gmail.com
+2025-05-13 20:28:26-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[LoginSuccess]-Session established for nfuad32@gmail.com
+2025-05-13 20:28:27-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-05-13 20:28:28-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[DashboardData]-Fetched data for nfuad32@gmail.com
+2025-05-13 20:28:44-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[Booking]-New booking slots request received
+2025-05-13 20:29:04-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-05-13 20:29:21-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[Booking]-New booking slots request received
+2025-05-13 20:29:27-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-05-13 20:29:46-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-05-13 20:29:47-EID[288467-PMA]-SID[5c673378-0348-4bed-9005-ffcb2e347fab]-[INFO] TASK[DashboardData]-Fetched data for nfuad32@gmail.com
+2025-05-13 22:13:52-EID[]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[LoginInit]-Login attempt for sabbirhossainborno@gmail.com from 103.180.244.251
+2025-05-13 22:13:52-EID[]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[MemberLogin]-Successful login for member: sabbirhossainborno@gmail.com
+2025-05-13 22:13:53-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[LoginSuccess]-Session established for sabbirhossainborno@gmail.com
+2025-05-13 22:13:54-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-05-13 22:13:54-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-05-13 22:14:04-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[Booking]-New booking slots request received
+2025-05-13 22:14:18-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[Booking-Summary]-Authentication check
+2025-05-13 22:14:42-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[Auth Check]-User type : Member (Member)
+2025-05-13 22:14:42-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[DashboardData]-Fetched data for sabbirhossainborno@gmail.com
+2025-05-13 22:14:56-EID[526472-PMA]-SID[04e30875-fdfa-4a68-ac1e-ba1fdb74cd94]-[INFO] TASK[BookingHistoryData]-Fetched 46 bookings for sabbirhossainborno@gmail.com

@@ -10,6 +10,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import withAuth from '../components/withAuth';
 import LoadingSpinner from '../components/LoadingSpinner';
+import InvoiceModal from '../components/InvoiceModal';
 import BookNow from './book_now/page';
 import Payment from './payment/page';
 import BookingHistory from './booking_history/page';
@@ -71,6 +72,9 @@ const MemberDashboard = () => {
   const [initialLoad, setInitialLoad] = useState(true);
   const [isLoggingOut, setIsLoggingOut] = useState(false);
 
+  const [showInvoiceModal, setShowInvoiceModal] = useState(false);
+  const [bookingIdForInvoice, setBookingIdForInvoice] = useState(null);
+
   // Responsive layout effects
   useEffect(() => {
     setMounted(true);
@@ -117,9 +121,10 @@ const MemberDashboard = () => {
   // Payment status and access denied notifications
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
+    const paymentStatus = params.get('payment');
+    const bid = params.get('booking_id');
     
     // Handle payment status
-    const paymentStatus = params.get('payment');
     if (paymentStatus) {
       // Clean URL
       params.delete('payment');
@@ -127,7 +132,15 @@ const MemberDashboard = () => {
       window.history.replaceState(null, '', newUrl);
 
       // Show notifications
-      if (paymentStatus === 'success') {
+      if (paymentStatus === 'success' && bid) {
+        setBookingIdForInvoice(bid);
+        setShowInvoiceModal(true);
+        
+        // Clean URL parameters
+        const newUrl = new URL(window.location);
+        newUrl.searchParams.delete('payment');
+        newUrl.searchParams.delete('booking_id');
+        window.history.replaceState({}, '', newUrl);
         toast.success('🎟️Booking Confirmed!', {
           autoClose: 3000,
           theme: darkMode ? 'dark' : 'light',
@@ -154,6 +167,11 @@ const MemberDashboard = () => {
     setInitialLoad(false);
   }, [router, darkMode]); // Add darkMode to dependencies
   
+  // Add close modal handler
+  const handleCloseInvoice = () => {
+    setShowInvoiceModal(false);
+    setBookingIdForInvoice(null);
+  };
 
   // Logout handler
   const handleLogout = async () => {
@@ -195,6 +213,15 @@ const MemberDashboard = () => {
     <AnimatePresence>
       {isLoggingOut && <LoadingSpinner type="global" />}
     </AnimatePresence>
+
+    {/* Add Invoice Modal */}
+    {showInvoiceModal && bookingIdForInvoice && (
+        <InvoiceModal 
+          bookingId={bookingIdForInvoice}
+          onClose={handleCloseInvoice}
+          darkMode={darkMode}
+        />
+      )}
       {/* Mobile Menu Toggle */}
       {!isDesktop && (
         <AnimatePresence>

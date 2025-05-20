@@ -4,10 +4,11 @@ import React, { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
   FiCalendar, FiClock,  FiCheckCircle,
-  FiInfo, FiX, FiCreditCard, FiArrowUp, FiAlertTriangle
+  FiInfo, FiX, FiCreditCard, FiArrowUp, FiAlertTriangle, FiFileText
 } from 'react-icons/fi';
 import { TbCurrencyTaka } from "react-icons/tb";
 import LoadingSpinner from '../../components/LoadingSpinner';
+import InvoiceModal from '../../components/InvoiceModal';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -16,6 +17,9 @@ const BookingHistory = ({ darkMode }) => {
   const [loading, setLoading] = useState(true);
   const [selectedTransaction, setSelectedTransaction] = useState(null);
   const [sortConfig, setSortConfig] = useState({ key: 'date', direction: 'desc' });
+
+  const [selectedInvoiceId, setSelectedInvoiceId] = useState(null);
+
 
   useEffect(() => {
     const fetchHistory = async () => {
@@ -336,17 +340,31 @@ const BookingHistory = ({ darkMode }) => {
                     </div>
                   </div>
 
-                  <button
-                    onClick={() => setSelectedTransaction(booking)}
-                    className={`mt-4 w-full py-2 rounded-lg flex items-center justify-center gap-2 ${
-                      darkMode 
-                        ? 'bg-gray-700 hover:bg-gray-600 text-purple-400' 
-                        : 'bg-purple-50 hover:bg-purple-100 text-purple-600'
-                    } transition-colors`}
-                  >
-                    <FiInfo className="w-5 h-5" />
-                    View Transaction Details
-                  </button>
+                  <div className="flex flex-col sm:flex-row gap-4 mt-4 w-full">
+                    <button
+                      onClick={() => setSelectedTransaction(booking)}
+                      className={`w-full py-2 rounded-lg flex items-center justify-center gap-2 ${
+                        darkMode 
+                          ? 'bg-gray-700 hover:bg-gray-600 text-purple-400' 
+                          : 'bg-purple-50 hover:bg-purple-100 text-purple-600'
+                      } transition-colors`}
+                    >
+                      <FiInfo className="w-5 h-5" />
+                      View Transaction Details
+                    </button>
+                    <button
+                      onClick={() => setSelectedInvoiceId(booking.booking_id)}
+                      className={`w-full py-2 rounded-lg flex items-center justify-center gap-2 ${
+                        darkMode 
+                          ? 'bg-gray-700 hover:bg-gray-600 text-blue-400' 
+                          : 'bg-blue-50 hover:bg-blue-100 text-blue-600'
+                      } transition-colors`}
+                    >
+                      <FiFileText className="w-5 h-5" />
+                      Show Invoice
+                    </button>
+                  </div>
+
                 </motion.div>
               ))}
             </motion.div>
@@ -354,11 +372,19 @@ const BookingHistory = ({ darkMode }) => {
         </div>
       </div>
 
+      {/* Add InvoiceModal to AnimatePresence */}
       <AnimatePresence>
         {selectedTransaction && (
           <TransactionModal 
             transaction={selectedTransaction}
             onClose={() => setSelectedTransaction(null)}
+          />
+        )}
+        {selectedInvoiceId && (
+          <InvoiceModal
+            bookingId={selectedInvoiceId}
+            onClose={() => setSelectedInvoiceId(null)}
+            darkMode={darkMode}
           />
         )}
       </AnimatePresence>

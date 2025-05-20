@@ -191,7 +191,7 @@ export async function POST(req) {
       ══════════════════════════════════
 
       🔖 *Booking ID        :* #${booking.booking_id}
-      🔖 *Transaction ID  :* ${tran_id}
+      🔖 *Transaction ID   :* ${tran_id}
       📆 *Booking Date    :* ${bookingDate}
       💵 *Total Payment   :* ${totalAmount}
 
@@ -219,11 +219,8 @@ export async function POST(req) {
 
       // Prepare response
       const response = NextResponse.redirect(
-        `${process.env.BASE_URL}/member_dashboard?payment=success`,
-        {
-          status: 302,
-          headers: { 'Cache-Control': 'no-store' }
-        }
+        `${process.env.BASE_URL}/member_dashboard?payment=success&booking_id=${bookingId}`,
+        { status: 302, headers: { 'Cache-Control': 'no-store' } }
       );
 
       response.cookies.set('payment_status', 'success', {
